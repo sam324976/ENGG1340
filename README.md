@@ -15,10 +15,10 @@ This function is used to tell users the most suitable table for different number
 This function is used give a alert message to users to which table is occupied for too long. The time limit can afjust by users.
 
 ### Function 5: Edit
-This function is used to edit the size and number of table.
+This function is used to edit the size and number of table for different size of customers.
 
 ### Function 5 (if we have enough time): Splitting and Combination of the table
-This function is used in the situation that there are a large amount of customers and multiple table is needed to combine or split for serving purposes;
+This function is used in the situation that there are a large amount of customers and multiple table is needed to combine or split for serving purposes.
 
 A menu will be created to list out all the function and allow users to choose which to use. More functions may be added later
 
